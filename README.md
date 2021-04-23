@@ -1,6 +1,6 @@
 # Today I Learned
 
-* 아주 작은 것일지라도 내가 배운 것을 기록한다!
+* 아주 작은 것일지라도 **내가 배운 것**을 **꾸준히** 기록한다! 성장한다!
 
 ![Charge self-confidence](https://media.giphy.com/media/E72zBwfDfxRwLu5vbB/giphy.gif)
 
@@ -29,6 +29,8 @@
 
 
 ## To do
-- [ ] Git commit template 작성 및 사용 방법
-- [ ] php기본 문법, 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9363)
+- [ ] Markdown 문서 내부 링크 이동방법 학습 & 구현
 - [ ] Database 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9386)
+- [X] php기본 문법, 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9363)
+- [ ] Git commit template 작성 및 사용 방법 학습 & 활용 (정리 해두기!)
+

@@ -2,13 +2,23 @@
 
 * 하단에 **실습 중 거듭 실수한 부분**에 대한 **TIS**내용을 포함하고 있다.
 
-## JavaScript vs PHP
-### 공통점
+
+1. [JavaScript vs PHP](#JavaScript-vs-PHP)
+    1. [공통점](#공통점)
+    2. 차이점: 페이지에 출력하기, 숫자, 문자, 더하기 연산자
+        * JavaScript
+        * PHP
+2. TIS: PHP에서는 .에 유의!
+<!--문서 내 링크 작업 마무리하기-->
+
+
+## #JavaScript vs PHP
+### #공통점
 JavaScript(이하JS)와 PHP는 모두 사용자의 동작에 반응하며, 상황에 따라 작동하는 기능을 제어할 수 있다. 즉, **동적 언어**이다.
 
 *반면, HTML과 CSS는 한번 작성하면, 수정하지 않는 한 바뀌지 않는 **정적 언어**이다.*
 
-### 페이지에 출력하기, 숫자, 문자, 더하기 연산자
+### 차이점: 페이지에 출력하기, 숫자, 문자, 더하기 연산자
 #### JS
 ```Javascript
     document.write(100);
@@ -48,12 +58,14 @@ JavaScript(이하JS)와 PHP는 모두 사용자의 동작에 반응하며, 상�
 ```php
     echo file_get_contents($_GET['id'.'txt']);
 ```
+
 **analysis** ㅣ가져오는(GET)값으로 id만 선택해야 하는데, txt라는 고정된 확장자까지 포함해버려서 오류가 났다.
 
 **Issue.no2** ㅣ그러나, 문제가 해결되지 않아 다시 검토했다.
 ```php
     echo file_get_contents($_GET['id'].'txt');
 ```
+
 **analysis** ㅣid값과 txt라는 파일 확장자를 연결하는 .은 제대로 썼지만, 위의 식대로라면 **idtxt**가 결과값으로 도출된다.
 기대하는 결과값은 **id.txt**로, 두 단어 사이에 .을 삽입해야 한다.
 
