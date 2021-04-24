@@ -18,18 +18,25 @@
 
 ## Classification
 ### Books
+* 내 이해와 해석을 담아 작성한다.
+* 책 문장을 되도록이면 그대로 붙여넣지 않는다. (해석을 덧붙인다)
 ### Seminar & Conference
+* 각 행사에서 안내받은 저작권에 관한 규정을 따른다.
+* 저작권 문제로 '공유'하지 못하는 경우, 개인 노트로만 정리해둔다.
 ### HTML & CSS
 ### JavaScript
 ### PHP
 * [2021.4.23 php를 사용하는 이유(목적)](https://github.com/ShinAhYoung21/TIL/blob/master/PHP/php_1.md)
 * [2021.4.23 php와 javascript 비교 1: 문자, 숫자, +선택자의 쓰임새](https://github.com/ShinAhYoung21/TIL/blob/master/PHP/php_2.md)
+* [2021.4.24 PHP 활용: list번호에 해당하는 txt파일 불러오기](https://github.com/ShinAhYoung21/TIL/blob/master/PHP/php_3.md)
 ### Database
 ### Git & GitHub
+* [2021.4.24 GIT 개요 : 사용목적 중심](https://github.com/ShinAhYoung21/TIL/blob/master/GIT_GitHub/git_1.md)
 
 
 ## To do
-- [ ] Markdown 문서 내부 링크 이동방법 학습 & 구현
+- [ ] 2021.4월까지의 특강, 서밋 내용 요약
+- [ ] Markdown 문서&리포짓 내부 링크 이동 원리 학습
 - [ ] Database 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9386)
 - [X] php기본 문법, 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9363)
 - [ ] Git commit template 작성 및 사용 방법 학습 & 활용 (정리 해두기!)
