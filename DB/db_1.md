@@ -1,5 +1,6 @@
 # DataBase 개요: 장점, 동작 구조
 
+<!--이미지 파일 전체적으로 개선 필요-->
 ## DataBase란?
 근대적 웹앱이라면, 정보가 존재하는 위치는 보통 DB이다. DB는 **정보를 안전하고 효율적으로 사용할 수 있게 하는 전문 애플리케이션이다.**
 
@@ -23,19 +24,19 @@
 ### DB의 체계
 > [MySQL / MSSQL / Oracle] ⊂ 관계형 DB ⊂ DB
 *내가 따라가는 생활코딩 웹앱만들기 수업에서는 MySQL을 다룬다*
-![DB system](https://raw.githubusercontent.com/ShinAhYoung21/TIL/04b8b3f5c8a5bf427608cd0ede7458e4f4c396e6/img/DBsys.PNG?raw=true)
+![DB system](https://github.com/ShinAhYoung21/TIL/blob/main/img/DBsys.PNG?raw=true)
 관계형 DB에 속하는 DB시스템들 중에서 한 가지를 배우면 나머지는 배우는 것이 훨씬 수월해지는데, 이는 동작 방법이 거의 같기 때문이다.
 *MySQL, MSSQL, 오라클 등은 SQL이라는 표준화된 프로그래밍언어를 구현하기 때문에, 동일한 SQL을 통해서 그 시스템들을 제어할 수 있다.*
 
 
 ### DB시스템이 동작하는 방법
 #### PHP와 DB 사이
-![DB and PHP](https://raw.githubusercontent.com/ShinAhYoung21/TIL/04b8b3f5c8a5bf427608cd0ede7458e4f4c396e6/img/DBandPHP.PNG?raw=true)
+![DB and PHP](https://github.com/ShinAhYoung21/TIL/blob/main/img/DBandPHP.PNG?raw=true)
 **MySQL이 명령을 DB로** 보낸다. 이는 DB를 제어할 때 사용하는 언어이다.
 그러면, **DB는 저 명령에 해당하는 정보를 MySQL에게 *구조화된 형태***로 보내준다.
 
 #### 브라우저부터 DB까지
-![Browser to DB](https://raw.githubusercontent.com/ShinAhYoung21/TIL/04b8b3f5c8a5bf427608cd0ede7458e4f4c396e6/img/BrowserToDB_SC.PNG?raw=true)
+![Browser to DB](https://github.com/ShinAhYoung21/TIL/blob/main/img/BrowserToDB_SC.PNG?raw=true)
 > 웹브라우저는 a.php를 통해서 웹서버에 접속한다.
 > 웹서버는 php를 해석할 수 없기 때문에 PHP에 a.php처리를 요청한다.
 > PHP는 코드를 해석하면서, DB에서 어떤 정보를 가져오라는 SQL문이 들어오면, DB서버에 접속해서 질의한다.
