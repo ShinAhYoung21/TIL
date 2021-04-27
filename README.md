@@ -17,6 +17,8 @@
 
 
 ## Classification
+### CS: Computer Science
+
 ### Vocabulary for Pre-programmer
 > 이 분야에 대한 학습 실행 이유는 간단히 **개발 문해력**을 기르기 위해서이다. 자세한 내용은 [브런치, 좋아 문해력부터 기르는 거야!](https://brunch.co.kr/@writing-say/406) 참조.
 * [2021.4.20 Markdown이란?](https://archive-shin.tistory.com/63?category=1198631)
@@ -58,6 +60,9 @@
 * [2021.4.25 DB개요: 장점, 동작 구조](https://github.com/ShinAhYoung21/TIL/blob/main/DB/db_1.md)
 * [2021.4.17 브라우저와 DB의 소통 절차, MySQL의 가져오기 syntax](https://archive-shin.tistory.com/59?category=1198036)
 
+### Network
+* [2021.4.27 IP와 도메인(정리 미완성)](https://github.com/ShinAhYoung21/TIL/blob/main/Network/nw_1.md)
+
 ### Git & GitHub
 * [2021.4.24 GIT 개요 : 사용목적 중심](https://github.com/ShinAhYoung21/TIL/blob/main/GIT_GitHub/git_1.md)
 
@@ -66,8 +71,16 @@
 
 
 ## To do
+- [ ] CS50 2021 수강 및 정리: Computer Science 개론 학습
 - [ ] 2021.4월까지의 특강, 서밋 내용 요약
 - [ ] Markdown 문서&리포짓 내부 링크 이동 원리 학습
-- [ ] Database 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9386)
+- [X] Database 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9386)
 - [X] php기본 문법, 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9363)
 - [ ] Git commit template 작성 및 사용 방법 학습 & 활용 (정리 해두기!)
+
+
+## 학습 자료 출처
+* [생활코딩 웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
+
+
+*노력은 배신을 모른다*
