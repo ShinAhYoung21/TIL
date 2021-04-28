@@ -14,7 +14,7 @@
 [Github Guides](https://guides.github.com/features/mastering-markdown/), 
 [namjunemy님 TIL](https://github.com/namjunemy/TIL#readme), [milooy님 TIL](https://github.com/milooy/TIL) Github TIL을 가장 먼저 접했고, 참고했다.
 계속 성장하자! 발전시켜나가자!
-
+----
 
 ## Classification
 ### CS: Computer Science
@@ -35,8 +35,8 @@
 ### Seminar & Conference
 > 각 행사에서 안내받은 저작권에 관한 규정을 따른다.
 > 저작권 문제로 '공유'하지 못하는 경우, 개인 노트로만 정리해둔다.
-* [2021.4.23 캐치MeetUp_비전공 개발자가 말하는 요즘 취업](https://github.com/ShinAhYoung21/TIL/blob/main/Seminar/CatchM_Non-Major.md)
-* [2021.4.20 캐치MeetUp_서비스 중심 IT회사가 원하는 개발자](https://github.com/ShinAhYoung21/TIL/blob/main/Seminar/CatchM_ServCor.md)
+* [2021.4.19~ 캐치MeetUp_개발자 커리어콘 list](https://github.com/ShinAhYoung21/TIL/blob/main/Seminar/CatchM.md)
+----
 
 ### Markdown
 * [2021.4.25 TIS: Markdown에서 Image 삽입 방식](https://github.com/ShinAhYoung21/TIL/blob/main/Markdown/md_1.md)
@@ -53,13 +53,13 @@
 * [2021.4.24 PHP 활용: list번호에 해당하는 txt파일 불러오기](https://github.com/ShinAhYoung21/TIL/blob/main/PHP/php_3.md)
 * [2021.4.23 php와 javascript 비교 1: 문자, 숫자, +선택자의 쓰임새](https://github.com/ShinAhYoung21/TIL/blob/main/PHP/php_2.md)
 * [2021.4.23 php를 사용하는 이유(목적)](https://github.com/ShinAhYoung21/TIL/blob/main/PHP/php_1.md)
-
+----
 ### Database
 #### My SQL
 * [2021.4.26 MySQL 서버 연결 오류](https://github.com/ShinAhYoung21/TIL/blob/main/DB/error_1.md)
 * [2021.4.25 DB개요: 장점, 동작 구조](https://github.com/ShinAhYoung21/TIL/blob/main/DB/db_1.md)
 * [2021.4.17 브라우저와 DB의 소통 절차, MySQL의 가져오기 syntax](https://archive-shin.tistory.com/59?category=1198036)
-
+----
 ### Network
 * [2021.4.27 IP와 도메인(정리 미완성)](https://github.com/ShinAhYoung21/TIL/blob/main/Network/nw_1.md)
 
@@ -68,19 +68,19 @@
 
 ### VSC & Dev-Environment
 * [2021.4.15 아파치 bitnami, php를 해석하지 못하는 오류 해결](https://archive-shin.tistory.com/57?category=1197772)
+----
 
-
-## To do
+## To do: 주 1회, 완료목록을 지운다!
+- [ ] 웹앱만들기(생활코딩) 수강내용 복습 및 정리 완료: 복습내용도 TIL로 처리. 복습한 날짜를 작성할 것!
 - [ ] CS50 2021 수강 및 정리: Computer Science 개론 학습
 - [ ] 2021.4월까지의 특강, 서밋 내용 요약
 - [ ] Markdown 문서&리포짓 내부 링크 이동 원리 학습
-- [X] Database 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9386)
-- [X] php기본 문법, 기능구현 원리_[웹앱만들기(생활코딩)](https://opentutorials.org/course/1688/9363)
 - [ ] Git commit template 작성 및 사용 방법 학습 & 활용 (정리 해두기!)
-
+----
 
 ## 학습 자료 출처
-* [생활코딩 웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
+* [(완)생활코딩 웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)_[18/22days 소요됨](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/webApp.md)
+* 
 
 
 *노력은 배신을 모른다*
