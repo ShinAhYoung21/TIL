@@ -10,6 +10,7 @@
 > * 구조적 정리에 대한 학습을 위해, 다른 개발자분들의 TIL을 참고한다. 단, 비교하지 않는다!
 > * 프로그래밍에 직접 관련된 학습 기록만을 다룬다. 기타 기록은 [브런치 <Hello 개발 World>매거진](https://brunch.co.kr/magazine/this)
 > * 학습 기록, to do 리스트 작성은 모두 **'시간 역순'으로 기록**한다. 즉, 가장 최근에 공부한 기록을 상단에 작성한다.
+> * (2021.4.29 updated) **TIL문서 작성일을 카테고리상 노출되는 날짜로 기록**한다.
 
 [Github Guides](https://guides.github.com/features/mastering-markdown/), 
 [namjunemy님 TIL](https://github.com/namjunemy/TIL#readme), [milooy님 TIL](https://github.com/milooy/TIL) Github TIL을 가장 먼저 접했고, 참고했다.
@@ -61,6 +62,7 @@
 * [2021.4.17 브라우저와 DB의 소통 절차, MySQL의 가져오기 syntax](https://archive-shin.tistory.com/59?category=1198036)
 ----
 ### Network
+* [2021.4.29 TIS: 인터넷 연결 오류문제를 분석 및 해결](https://github.com/ShinAhYoung21/TIL/blob/main/Network/nw_2.md)
 * [2021.4.27 IP와 도메인(정리 미완성)](https://github.com/ShinAhYoung21/TIL/blob/main/Network/nw_1.md)
 
 ### Git & GitHub
