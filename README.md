@@ -12,13 +12,19 @@
 > * 학습 기록, to do 리스트 작성은 모두 **'시간 역순'으로 기록**한다. 즉, 가장 최근에 공부한 기록을 상단에 작성한다.
 > * (2021.4.29 updated) **TIL문서 작성일을 카테고리상 노출되는 날짜로 기록**한다.
 
-[Github Guides](https://guides.github.com/features/mastering-markdown/), 
+> [Github Guides](https://guides.github.com/features/mastering-markdown/), 
 [namjunemy님 TIL](https://github.com/namjunemy/TIL#readme), [milooy님 TIL](https://github.com/milooy/TIL) Github TIL을 가장 먼저 접했고, 참고했다.
 계속 성장하자! 발전시켜나가자!
 ----
 
 ## Classification
+----
 ### CS: Computer Science
+#### Algorithms
+
+#### Data Structures
+* [2021.4.30~ (미완)2021_CS50 Scratch(스크래치)](https://github.com/ShinAhYoung21/TIL/blob/main/DS/CS50_1.md)
+----
 
 ### Vocabulary for Pre-programmer
 > 이 분야에 대한 학습 실행 이유는 간단히 **개발 문해력**을 기르기 위해서이다. 자세한 내용은 [브런치, 좋아 문해력부터 기르는 거야!](https://brunch.co.kr/@writing-say/406) 참조.
@@ -47,6 +53,7 @@
 * [2021.2.22 button태그 vs input태그의 button타입의 차이점](https://archive-shin.tistory.com/8?category=1193426)
 
 ### JavaScript
+* [2021.4.30 ]()
 * [2021.4.12 JavaScript vs PHP: 더하기 연산자, 변수선언, 배열에서 값 뽑아오기](https://archive-shin.tistory.com/52?category=1193427)
 * [2021.4.11 JavaScript가 동적 언어인 이유 feat.PHP](https://archive-shin.tistory.com/51?category=1193427)
 
@@ -81,8 +88,9 @@
 ----
 
 ## 학습 자료 출처
-* [(완)생활코딩 웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)_[18/22days 소요됨](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/webApp.md)
-* 
+* (ing) [2021 CS50x](https://cs50.harvard.edu/x/2021/)
+* (ing) [생활코딩_JavaScript 입문](https://youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
+* (완) [생활코딩_웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)_[18/22days 소요됨](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/webApp.md)
 
 
 *노력은 배신을 모른다*
