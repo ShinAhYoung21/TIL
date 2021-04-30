@@ -47,6 +47,6 @@
 따라서, 언어를 통해 환경을 제어하는 방법은 [브라우저 제어 by JS](https://opentutorials.org/course/1375) / [Node.js 제어 by JS](https://opentutorials.org/course/3332) 등의 강의를 통해 정밀 학습 가능하다!
 ----
 
-![다 계획이 있구나?](https://media.giphy.com/media/QuCViA0jSSfWxdghms/giphy.gif)
+![다 계획이 있구나?](https://media0.giphy.com/media/QuCViA0jSSfWxdghms/giphy.gif?cid=790b7611521846e96717b824ab25e8e6f497b2a9057bb9c4&rid=giphy.gif&ct=g)
 *와... egoing님은 다 게획이 있구나..?*
 이런 구조적인 강의 얼마나 멋진가! ㅜㅜ Thx!
