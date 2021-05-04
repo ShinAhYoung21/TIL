@@ -54,6 +54,7 @@
 * [2021.02.22 button태그 vs input태그의 button타입의 차이점](https://archive-shin.tistory.com/8?category=1193426)
 
 ### JavaScript
+* [2021.05.04 숫자, 문자 그리고 변수 in JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_numToVar.md)
 * [2021.04.30 프로그래밍이란 무엇인가 feat.JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_1.md)
 * [2021.04.12 JavaScript vs PHP: 더하기 연산자, 변수선언, 배열에서 값 뽑아오기](https://archive-shin.tistory.com/52?category=1193427)
 * [2021.04.11 JavaScript가 동적 언어인 이유 feat.PHP](https://archive-shin.tistory.com/51?category=1193427)
@@ -81,6 +82,8 @@
 ----
 
 ## To do: 주 1회, 완료목록을 지운다!
+- [ ] JavaScript를 활용하여 알고리즘 문제 풀기(**시작하기!**)
+- [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
 - [ ] JavaScript 기본문법 복기: 학습노트 복기하는 겸, TIL로 정리
 - [ ] TIS 정리해서 작성: markdown으로 gif파일 삽입하는 방식(삽질의 흔적과 원인분석, 해결방안으로 구성해서 정리!)
 - [ ] 웹앱만들기(생활코딩) 수강내용 복습 및 정리 완료: 복습내용도 TIL로 처리. 복습한 날짜를 작성할 것!
