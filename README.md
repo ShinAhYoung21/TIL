@@ -49,7 +49,7 @@
 * [2021.04.25 TIS: Markdown에서 Image 삽입 방식](https://github.com/ShinAhYoung21/TIL/blob/main/Markdown/md_1.md)
 
 ### HTML & CSS
-* [2021.05.05 CSS 반응형 단위 정리](ttps://github.com/ShinAhYoung21/TIL/blob/main/HTML&CSS/css_1_resp.md)
+* [2021.05.05 CSS 반응형 단위 정리](https://github.com/ShinAhYoung21/TIL/blob/main/HTML&CSS/css_1_resp.md)
 * [2021.05.02 TIS: 다른 폴더에 있는 파일 링크하기: 상대경로](https://github.com/ShinAhYoung21/TIL/blob/main/HTML&CSS/html_1_path.md)
 * [~2021.03.16 사이트 구조 분석 연습](https://archive-shin.tistory.com/category/TIL:%20practices/%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%B6%84%EC%84%9D?page=1)
 * [2021.02.22 button태그 vs input태그의 button타입의 차이점](https://archive-shin.tistory.com/8?category=1193426)
@@ -83,6 +83,7 @@
 ----
 
 ## To do: 주 1회, 완료목록을 지운다!
+- [ ] 상단 메뉴바 디자인 학습해서 [Chaek-quae](https://github.com/ShinAhYoung21/Chaek-quae)프로젝트에 접목시키기
 - [ ] JavaScript를 활용하여 알고리즘 문제 풀기(**시작하기!**)
 - [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
 - [ ] JavaScript 기본문법 복기: 학습노트 복기하는 겸, TIL로 정리
