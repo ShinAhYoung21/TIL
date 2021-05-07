@@ -55,6 +55,7 @@
 * [2021.02.22 button태그 vs input태그의 button타입의 차이점](https://archive-shin.tistory.com/8?category=1193426)
 
 ### JavaScript
+* [2021.05.07 주석, 줄바꿈, 여백, 데이터타입, 비교연산자](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_commentToOperator.md)
 * [2021.05.04 숫자, 문자 그리고 변수 in JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_numToVar.md)
 * [2021.04.30 프로그래밍이란 무엇인가 feat.JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_1.md)
 * [2021.04.12 JavaScript vs PHP: 더하기 연산자, 변수선언, 배열에서 값 뽑아오기](https://archive-shin.tistory.com/52?category=1193427)
@@ -96,9 +97,10 @@
 ----
 
 ## 학습 자료 출처
+* (plan) [TCP스쿨](http://tcpschool.com/)
 * (ing) [2021 CS50x](https://cs50.harvard.edu/x/2021/)
 * (ing) [생활코딩_JavaScript 입문](https://youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
-* (완) [생활코딩_웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)_[18/22days 소요됨](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/webApp.md)
+* [X] [생활코딩_웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)_[18/22days 소요됨](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/webApp.md)
 
 
 *노력은 배신을 모른다*
