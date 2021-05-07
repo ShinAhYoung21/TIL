@@ -55,7 +55,7 @@
 * [2021.02.22 button태그 vs input태그의 button타입의 차이점](https://archive-shin.tistory.com/8?category=1193426)
 
 ### JavaScript
-* [2021.05.07 주석, 줄바꿈, 여백, 데이터타입, 비교연산자](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_commentToOperator.md)
+* [2021.05.07 주석, 줄바꿈, 여백, 데이터타입, 비교연산자](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_3_commentToOperator.md)
 * [2021.05.04 숫자, 문자 그리고 변수 in JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_numToVar.md)
 * [2021.04.30 프로그래밍이란 무엇인가 feat.JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_1.md)
 * [2021.04.12 JavaScript vs PHP: 더하기 연산자, 변수선언, 배열에서 값 뽑아오기](https://archive-shin.tistory.com/52?category=1193427)
