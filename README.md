@@ -20,10 +20,12 @@
 ## Classification
 ----
 ### CS: Computer Science
+#### Intro to CS: CS50x 2021
+* [2021.04.30~ (미완)2021_CS50 Scratch(스크래치)](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50_1.md)
+
 #### Algorithms
 
 #### Data Structures
-* [2021.04.30~ (미완)2021_CS50 Scratch(스크래치)](https://github.com/ShinAhYoung21/TIL/blob/main/DS/CS50_1.md)
 ----
 
 ### Vocabulary for Pre-programmer
@@ -84,6 +86,7 @@
 ----
 
 ## To do: 주 1회, 완료목록을 지운다!
+- [ ] Python 기본문법 학습(tcp스쿨 읽기자료, 유튜브 강의 활용)
 - [ ] 상단 메뉴바 디자인 학습해서 [Chaek-quae](https://github.com/ShinAhYoung21/Chaek-quae)프로젝트에 접목시키기
 - [ ] JavaScript를 활용하여 알고리즘 문제 풀기(**시작하기!**)
 - [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
