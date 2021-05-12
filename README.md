@@ -69,8 +69,8 @@
 
 ### JavaScript
 
-* [2021.05.10~05.11 조건문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md)
-* [2021.05.07~05.11 주석, 줄바꿈, 여백, 데이터타입, 연산자](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_3_commentToOperator.md)
+* [2021.05.10~05.12 조건문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md)
+* [2021.05.07~05.12 주석, 줄바꿈, 여백, 데이터타입, 연산자](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_3_commentToOperator.md)
 * [2021.05.04 숫자, 문자 그리고 변수 in JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_numToVar.md)
 * [2021.04.30 프로그래밍이란 무엇인가 feat.JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_1.md)
 * [2021.04.12 JavaScript vs PHP: 더하기 연산자, 변수선언, 배열에서 값 뽑아오기](https://archive-shin.tistory.com/52?category=1193427)
@@ -112,7 +112,7 @@
 - [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
 - [ ] JavaScript 기본문법 복기: 학습노트 복기하는 겸, TIL로 정리
 - [ ] CS50 2021 수강 및 정리: Computer Science 개론 학습
-- [ ] Markdown 문서&리포짓 내부 링크 이동 원리 학습
+- [X] Markdown 문서&리포짓 내부 링크 이동 원리 학습
 ----
 
 ## 학습 자료 출처
