@@ -160,17 +160,44 @@ alert(10>=1); //true
     if (true && true) {
         alert(1);
     }
+    // 1 출력
 
     if(true && fasle) {
         alert(2);
     }
+    // 출력되지 않음
 
     if(false && false) {
         alert(3);
     }
+    // 출력되지 않음
     ```
-    
-((활용예시& 조건문 페이지 연결하는 것부터 복습 재개!))
+    * 실제 코드에서의 예시는 [조건문에서의 `&&` 예시: 아이디와 비밀번호 확인](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md) 참조!
+
+#### ||
+
+* `or`, `또는`.
+    * 연결된 조건들 중에서 `하나라도 참이면 참`
+* 예시
+    ```javascript
+    if(true || true) {
+        alert(1);
+    }
+    // 1 출력
+
+    if(true || false) {
+        alert(2);
+    }
+    // 2 출력
+
+    if(false || false) {
+        alert(3);
+    }
+    // 출력되지 않음
+    ```
+    * 활용 예시는 [조건문에서의 `||` 예시: 아이디와 비밀번호 확인](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md) 참조!
+
+((`!`부터 복습 재개!))
 
 
 ## TIL: 유용한 참고 사이트 발견!
