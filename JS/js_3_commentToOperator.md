@@ -50,18 +50,17 @@ a = 1이라고 쓰는 것*/
 
 ## Data type
 
+### 숫자 Number
+
 * -1 1 2 3 ...: number (소수도 다 포함한다)
+
+### 문자열 String
+
 * "a" "b" "c" ...: string(문자열)
-* undefined : 정의되지 않음. 프로그래머가 **의도하지 않은** 공백 상황.
-* null : 값이 없음. 프로그래머가 **의도해서**값이 없는 상태를 부여한 것.
-    ```javascript
-    var a = null;
-    alert(undefined == null); //true
-    alert(undefined === null); //false
-    //프로그래머가 의도 했든 안 했든, 값이 없으면 null로 간주된다.
-    //그러나, 엄격하게 따져보자면, '의도'면에서 차이가 있기 때문에 완전히 같은 값은 아니다 (=== 비교값이 false이다)
-    ```
-* Boolean: `true`, `false` 두 가지 값을 통틀어 이르는 말.
+
+### Boolean
+
+* `true`, `false` 두 가지 값을 통틀어 이르는 말.
     ```javascript
     alert(true == 1); //T
     alert(  true == 2); //F
@@ -75,6 +74,21 @@ a = 1이라고 쓰는 것*/
     alert(0 === -0); //T
     alert(NaN === NaN); //F
     //NaN의 예를 들면 0/0. 성립하지 않는 수를 나타내는 데이터타입. 계산할 수 없음이라는 의미.
+    ```
+* JavaScript에서, `숫자 1`은 `true`로 간주된다.
+* 빈 문자열은 `false`로 간주된다. 또한, 변수에 어떤 값도 주지 않고 활용할 경우에도 `undefined`상황이 되므로, `false`로 간주된다.
+* 그러나, **명확하게 true나 false가 되는 코드**를 쓰길 권장한다! 이렇게 두루뭉술하게 숫자나 빈 문자열 말고 Boolean이 확실히 드러나게 쓰기!
+
+### 기타 데이터 타입
+
+* undefined : 정의되지 않음. 프로그래머가 **의도하지 않은** 공백 상황.
+* null : 값이 없음. 프로그래머가 **의도해서**값이 없는 상태를 부여한 것.
+    ```javascript
+    var a = null;
+    alert(undefined == null); //true
+    alert(undefined === null); //false
+    //프로그래머가 의도 했든 안 했든, 값이 없으면 null로 간주된다.
+    //그러나, 엄격하게 따져보자면, '의도'면에서 차이가 있기 때문에 완전히 같은 값은 아니다 (=== 비교값이 false이다)
     ```
 ----
 
@@ -197,8 +211,19 @@ alert(10>=1); //true
     ```
     * 활용 예시는 [조건문에서의 `||` 예시: 아이디와 비밀번호 확인](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md) 참조!
 
-((`!`부터 복습 재개!))
+#### !
 
+* `not`을 의미한다.
+* boolean 값을 역전시킨다.
+* 예시
+    * `!false` === `true`. 그러니까, `{}`안쪽 구문이 실행된다.
+    ```javascript
+    if(true && !false) {
+        alert(1);
+    }
+    // 경고창에 1 출력
+    ```
+----
 
 ## TIL: 유용한 참고 사이트 발견!
 [TCP스쿨](http://tcpschool.com/)
