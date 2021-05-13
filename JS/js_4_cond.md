@@ -254,9 +254,6 @@ if(false) {
         </script>
     </body>
     ```
-
-((`조건문 중첩` 아래 `!`부터 복습 continue!))
-
 ----
 
 ## prompt
