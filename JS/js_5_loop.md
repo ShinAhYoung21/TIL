@@ -3,9 +3,9 @@
 > [조건문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md)은 컴을 똑똑하게, 반복문은 컴을 강력하게 만든다!
     조건문, 반복문이 프로그래밍의 양대산맥이라고 함!
 
-> **간략 목차**
-    > [while문](#while)
-    > [for문](#for)
+* **간략 목차**
+    * [while문](#while)
+    * [for문](#for)
 ----
 
 ## 기본 문법: while, for
