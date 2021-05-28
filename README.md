@@ -25,7 +25,7 @@
 
 #### Intro to CS: CS50x 2021
 
-* [2021.04.30~ (미완)2021_CS50 w0_CS intro and Scratch](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50_w0.md)
+* [2021.04.30~05.28 2021_CS50 w0_CS intro and Scratch](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50_w0.md)
 
 #### Algorithms
 
