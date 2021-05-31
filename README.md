@@ -25,7 +25,8 @@
 
 #### Intro to CS: CS50x 2021
 
-* [2021.04.30~05.28 2021_CS50 w0_CS intro and Scratch](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50_w0.md)
+* [2021.05.31~(학습 중) 2021_CS50x week1_C](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50x_w1.md)
+* [2021.04.30~05.28 2021_CS50x week0_CS intro and Scratch](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50x_w0.md)
 
 #### Algorithms
 
@@ -108,13 +109,13 @@
 
 ## To do: 주 1회, 완료목록을 지운다!
 
-- [ ] Python 기본문법 학습(tcp스쿨 읽기자료, 유튜브 강의 활용)
-- [ ] 상단 메뉴바 디자인 학습해서 [Chaek-quae](https://github.com/ShinAhYoung21/Chaek-quae)프로젝트에 접목시키기
-- [ ] JavaScript를 활용하여 알고리즘 문제 풀기(**시작하기!**)
+- [ ] 독서_<비전공자를 위한 이해할 수 있는 IT 지식>
+- [ ] 6월 커리어리 챌린지: 개발분야 정보 읽고, 정리하기.
+- [ ] 원티드+ 청취: 2021.06.11까지. 개발분야에서 뽑아둔 자료들이 0순위.
+- [ ] 알고리즘 문제풀기(JS 또는 Python을 우선하는 언어로 삼기)
 - [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
 - [ ] JavaScript 기본문법 복기: 학습노트 복기하는 겸, TIL로 정리
 - [ ] CS50 2021 수강 및 정리: Computer Science 개론 학습
-- [X] Markdown 문서&리포짓 내부 링크 이동 원리 학습
 ----
 
 ## 학습 자료 출처
