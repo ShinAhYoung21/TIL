@@ -23,9 +23,11 @@
 
 ### CS: Computer Science
 
-#### Intro to CS: CS50x 2021
+#### Intro to CS: CS50
 
-* [2021.05.31~(학습 중) 2021_CS50x week1_C](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50x_w1.md)
+> cs50x 2021version을 w1까지 수료하다가 [부스트코스](https://www.boostcourse.org/cs112)에서 제공하는 한글번역된 2019version으로 학습루트 변경: for 학습 속도(효율), 미루지 않고 학습하는 습관을 갖기 위한 자기효능감.
+
+* [2021.05.31 2021_CS50x week1_C](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50x_w1.md)
 * [2021.04.30~05.28 2021_CS50x week0_CS intro and Scratch](https://github.com/ShinAhYoung21/TIL/blob/main/CS50x2021/CS50x_w0.md)
 
 #### Algorithms
@@ -112,11 +114,10 @@
 
 - [ ] 독서_<비전공자를 위한 이해할 수 있는 IT 지식>
 - [ ] 6월 커리어리 챌린지: 개발분야 정보 읽고, 정리하기.
-- [ ] 원티드+ 청취: 2021.06.11까지. 개발분야에서 뽑아둔 자료들이 0순위.
 - [ ] 알고리즘 문제풀기(JS 또는 Python을 우선하는 언어로 삼기)
 - [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
-- [ ] JavaScript 기본문법 복기: 학습노트 복기하는 겸, TIL로 정리
-- [ ] CS50 2021 수강 및 정리: Computer Science 개론 학습
+- [ ] JavaScript 기본문법 학습_in [부스트코스, <자바스크립트의 시작>](https://www.boostcourse.org/cs124)
+- [ ] CS50 2019 수강 및 정리: Computer Science 개론 학습_in [부스트코스, <모두를 위한 컴퓨터 과학>](https://www.boostcourse.org/cs112)
 ----
 
 ## 학습 자료 출처
