@@ -63,7 +63,7 @@
     - `og:title`은 공유시 드러나는 제목, `og:description`은 제목 아래 설명글.
 
 3. CSS에서 `color: inherit`의 의미
-    - `ingeritance(상속)`의 약자로, 부모요소로부터 해당 속성의 계산값을 받아 사용한다는 의미.
+    - `inheritance(상속)`의 약자로, 부모요소로부터 해당 속성의 계산값을 받아 사용한다는 의미.
     - 구체적 설명은 [MDN링크 참고](https://developer.mozilla.org/ko/docs/Web/CSS/inherit)
 
 4. HTML분석은 만만한데 CSS랑 JavaScript는 술술 안 읽힌다. **더 쓰자, 더 공부하자!**
