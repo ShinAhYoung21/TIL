@@ -1,10 +1,10 @@
 # CS50_1: C
 
 목차
-[1. C와 Scratch 비교](#c와-scratch-비교)
-[2. CS50 IDE](#cs50-ide)
-[3. Functions and arguments](#functions-and-arguments)
-[N. TIL: 학습 중 개인적으로 찾아 익힌 정보들](#til)
+1. [C와 Scratch 비교](#c와-scratch-비교)
+2. [CS50 IDE](#cs50-ide)
+3. [Functions and arguments](#functions-and-arguments)
+4. [TIL: 학습 중 개인적으로 찾아 익힌 정보들](#til)
 
 ## C와 Scratch 비교
 
