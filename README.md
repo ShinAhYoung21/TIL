@@ -35,6 +35,12 @@
 #### Data Structures
 ----
 
+### Project Analysis
+
+> 타인의 프로젝트 웹 사이트/서비스, 앱 등을 분석한다. 프로젝트 기획과 설계 아이디어를 얻기 위해서이다. 코드 작성에 대한 학습 겸한다.
+> 2021.06.07부터 개시!
+* [2021.06 프로젝트 분석 in커리어리 챌린지](https://github.com/ShinAhYoung21/TIL/blob/main/pjt_analysis/pjt_0_careerly.md)
+
 ### Vocabulary for Pre-programmer
 
 > 이 분야에 대한 학습 실행 이유는 간단히 **개발 문해력**을 기르기 위해서이다. 자세한 내용은 [브런치, 좋아 문해력부터 기르는 거야!](https://brunch.co.kr/@writing-say/406) 참조.
