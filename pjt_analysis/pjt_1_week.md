@@ -46,15 +46,16 @@
     - 이 태그를 사용하는 목적은, 모바일 장치에 최적화된 웹 페이지를 구성하기 위해서.
     
     - 태그 사용 형태는 아래 예시와 같다. (오늘 분석한 사이트의 입력값을 가져왔음)
-    - ```html
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">```
-    - 너비는 px단위인데, 오늘 분석한 사이트의 html 코드에서는 입력값에 px가 쓰이진 않았다.
-    - `content`에 여러 값을 사용한다면 쉼표(,)로 구분한다.
-    - `width=device-width`는 화면 너비를 장치에 맞춘다는 의미이다.
-        - 높이를 맞추는 것은 `height=device-height````
-    - `initial-scale=1.0`은 모바일에서 화면 초기 배율을 1.0x으로 한다는 의미이다
-    - 참고로, content값으로 `"user-scalable=no"`값을 줌으로써 사용자가 배율 조절을 하지 못하게 막을 수도 있다.
-        - 디폴트 값은 *배율 조절 가능*이다. 오늘 분석한 사이트의 코드에는 user-scalable 입력값이 없는데, 모바일에서 해당 사이트 페이지의 배율 조절이 가능한 것을 확인했다.
+        ```html
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        ```
+        - 너비는 px단위인데, 오늘 분석한 사이트의 html 코드에서는 입력값에 px가 쓰이진 않았다.
+        - `content`에 여러 값을 사용한다면 쉼표(,)로 구분한다.
+        - `width=device-width`는 화면 너비를 장치에 맞춘다는 의미이다.
+            - 높이를 맞추는 것은 `height=device-height````
+        - `initial-scale=1.0`은 모바일에서 화면 초기 배율을 1.0x으로 한다는 의미이다
+        - 참고로, content값으로 `"user-scalable=no"`값을 줌으로써 사용자가 배율 조절을 하지 못하게 막을 수도 있다.
+            - 디폴트 값은 *배율 조절 가능*이다. 오늘 분석한 사이트의 코드에는 user-scalable 입력값이 없는데, 모바일에서 해당 사이트 페이지의 배율 조절이 가능한 것을 확인했다.
 
 2. HTML에서 `<meta property>`태그의 활용
     - 간단히 말해서, 사이트 링크를 카톡 등으로 공유했을 때 나타나는 제목과 설명 등의 정보.
