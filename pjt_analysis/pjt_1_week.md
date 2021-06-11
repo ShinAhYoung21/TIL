@@ -1,6 +1,6 @@
 # 웹 사이트_오늘은 몇주차?
 
-> [사이트 링크](https://annyeong.me/nth-week-today/)
+> [사이트 링크](https://annyeong.me/nth-week-today/){:target="_blank"}
 
 목차
 1. [니즈](#니즈)
@@ -42,7 +42,7 @@
 ## 코드에서 배운 점
 
 1. HTML에서 `<meta viewport>`태그의 활용
-    - `<meta viewport>`는 표준이 아니다. 하지만, 표준'처럼' 사용된다. (출처: [티스토리 블로그)](https://aboooks.tistory.com/352)
+    - `<meta viewport>`는 표준이 아니다. 하지만, 표준'처럼' 사용된다. (출처: [티스토리 블로그)](https://aboooks.tistory.com/352){:target="_blank"}
     - 이 태그를 사용하는 목적은, 모바일 장치에 최적화된 웹 페이지를 구성하기 위해서.
     
     - 태그 사용 형태는 아래 예시와 같다. (오늘 분석한 사이트의 입력값을 가져왔음)
@@ -64,6 +64,6 @@
 
 3. CSS에서 `color: inherit`의 의미
     - `inheritance(상속)`의 약자로, 부모요소로부터 해당 속성의 계산값을 받아 사용한다는 의미.
-    - 구체적 설명은 [MDN링크 참고](https://developer.mozilla.org/ko/docs/Web/CSS/inherit)
+    - 구체적 설명은 [MDN링크 참고](https://developer.mozilla.org/ko/docs/Web/CSS/inherit){:target="_blank"}
 
 4. HTML분석은 만만한데 CSS랑 JavaScript는 술술 안 읽힌다. **더 쓰자, 더 공부하자!**
