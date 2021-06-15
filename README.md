@@ -67,7 +67,8 @@
 
 #### JavaScript
 
-* [2021.05.15~ 반복문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_5_loop.md)
+* [2021.06.15 함수](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_6_function.md)
+* [2021.05.15~06.15 반복문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_5_loop.md)
 * [2021.05.10~05.12 조건문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md)
 * [2021.05.07~05.13 주석, 줄바꿈, 여백, 데이터타입, 연산자](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_3_commentToOperator.md)
 * [2021.05.04 숫자, 문자 그리고 변수 in JavaScript](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_2_numToVar.md)
@@ -106,7 +107,7 @@
 
 > 주 1회, 완료목록을 지운다!
 
-- [ ] 독서_<비전공자를 위한 이해할 수 있는 IT 지식>
+- [X] 독서_<비전공자를 위한 이해할 수 있는 IT 지식>
 - [ ] 6월 커리어리 챌린지: 개발분야 정보 읽고, 정리하기.
 - [ ] 알고리즘 문제풀기(JS 또는 Python을 우선하는 언어로 삼기)
 - [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
