@@ -69,6 +69,7 @@
 
 #### JavaScript
 
+* [2021.06.18 배열](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_7_array.md)
 * [2021.06.15 함수](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_6_function.md)
 * [2021.05.15~06.15 반복문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_5_loop.md)
 * [2021.05.10~05.12 조건문](https://github.com/ShinAhYoung21/TIL/blob/main/JS/js_4_cond.md)
