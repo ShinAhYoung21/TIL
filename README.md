@@ -24,12 +24,14 @@
 
 1. [컴퓨터과학](#computer-science)
 2. [프로그래밍 관련 인풋](#inputs-about-programming)
+    * 구성내용: `TIS(문제해결)`, `프로젝트 분석`, `개발용어 학습`, `책 & 읽기자료 리뷰`, `세미나 & 컨퍼런스 리뷰`
 3. [웹](#web)
+    * [JavaScript](#javascript)
 4. [데이터베이스](#database)
 5. [버전관리](#version)
 6. [IDE & 개발환경](#ide-and-dev-environment)
 * [To do 리스트](#to-do-list)
-* [학습자료 출처 & 학습리뷰](#학습-자료-출처)
+* [학습 피드백(목표와 결과, 피드백)](#학습-피드백)
 
 ----
 <!--TIS 또는 트러블슈팅 카테고리 만들기_트러블슈팅 내용을 각 학습노트에 적더라도, 해결한 문제의 제목과 해결방식을 요약해서 따로 정리해두는 리스트 필요! 이 카테고리가 바로 그 리스트! / 학습내용과 트러블슈팅을 따로 구분하여, 후에 참고하기 편리하게 하기 위해서다.-->
@@ -92,6 +94,8 @@
 * [2021.04.29 TIS: 인터넷 연결 오류문제를 분석 및 해결](https://github.com/ShinAhYoung21/TIL/blob/main/Network/nw_2.md)
 * [2021.04.27 IP와 도메인(정리 미완성)](https://github.com/ShinAhYoung21/TIL/blob/main/Network/nw_1.md)
 ----
+[목차로 돌아가기](#classification)
+
 ### Database
 
 #### My SQL
@@ -112,14 +116,13 @@
 
 > 주 1회, 완료목록을 지운다!
 
-- [X] 독서_<비전공자를 위한 이해할 수 있는 IT 지식>
-- [ ] 6월 커리어리 챌린지: 개발분야 정보 읽고, 정리하기.
-- [ ] 알고리즘 문제풀기(JS 또는 Python을 우선하는 언어로 삼기)
-- [ ] 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습한다*)
+- [ ] 6월 [커리어리](https://careerly.co.kr/profiles/210528) 챌린지: 다른 사람이 개발한 웹/앱 서비스 분석해서 정보 공유하기
+- [ ] [코드업 파이썬기초100제](https://www.codeup.kr/problemsetsol.php?psid=33) 문제를 `Python`과 `JavaScript`를 활용해서 풀기(*풀이 내용 기록해두기*)
+- [ ] [CS50 2019:모두를 위한 컴퓨터 과학](https://www.boostcourse.org/cs112)강의를 통해 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습*)
 - [ ] JavaScript 기본문법 학습_in [생활코딩_JavaScript 입문](https://youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
-- [ ] CS50 2019 수강 및 정리: Computer Science 개론 학습_in [부스트코스, <모두를 위한 컴퓨터 과학>](https://www.boostcourse.org/cs112)
+- [ ] 독서_[IT 좀 아는 사람: 비전공자도 IT 전문가처럼 생각하는 법]
 ----
-## 학습 자료 출처
+## 학습 피드백
 
 * (ing) [2019 CS50_부스트코스](https://www.boostcourse.org/cs112)
 * (노트 복습 중) [생활코딩_JavaScript 입문](https://youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)_[강의만 43, 복습까지 ??days 소요](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/JS_syntax.md)
@@ -127,3 +130,6 @@
 
 
 *노력은 배신을 모른다*
+
+[목차로 돌아가기](#classification)
+[맨 위로](#today-i-learned)
