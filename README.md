@@ -42,6 +42,8 @@
 * Algorithms
 
 * Data Structures
+
+* [Practice: Coding Tests](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/codingtest.md)
 ----
 ### Inputs about Programming
 
