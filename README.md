@@ -47,6 +47,8 @@
 ----
 ### Inputs about Programming
 
+* [Feedback: lectures & activities](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/learn_feedback.md)
+
 * [List of TIS](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/tisList.md)
 
 * [Project Analysis](https://github.com/ShinAhYoung21/TIL/blob/main/pjt_analysis/pjt_0_careerly.md)
@@ -120,17 +122,12 @@
 
 > 주 1회, 완료목록을 지운다!
 
-- [ ] 6월 [커리어리](https://careerly.co.kr/profiles/210528) 챌린지: 다른 사람이 개발한 웹/앱 서비스 분석해서 정보 공유하기
+- [X] 6월 [커리어리](https://careerly.co.kr/profiles/210528) 챌린지: 다른 사람이 개발한 웹/앱 서비스 분석해서 정보 공유하기
 - [ ] [코드업 파이썬기초100제](https://www.codeup.kr/problemsetsol.php?psid=33) 문제를 `Python`과 `JavaScript`를 활용해서 풀기(*풀이 내용 기록해두기*)
 - [ ] [CS50 2019:모두를 위한 컴퓨터 과학](https://www.boostcourse.org/cs112)강의를 통해 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습*)
 - [X] JavaScript 기본문법 학습_in [생활코딩_JavaScript 입문](https://youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)
 - [ ] 독서_[IT 좀 아는 사람: 비전공자도 IT 전문가처럼 생각하는 법]
 ----
-## 학습 피드백
-
-* (ing) [2019 CS50_부스트코스](https://www.boostcourse.org/cs112)
-* [X] [생활코딩_JavaScript 입문](https://youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU)_[학습 피드백](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/JS_syntax.md) *강의만 43 days 소요*
-* [X] [생활코딩_웹앱만들기](https://youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)_[학습 피드백](https://github.com/ShinAhYoung21/TIL/blob/main/goal_result/webApp.md) *강의만 18, 복습까지 22days 소요*
 
 *노력은 배신을 모른다*
 
