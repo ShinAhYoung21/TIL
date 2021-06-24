@@ -55,7 +55,7 @@
 
 * [Books & other Reading Materials](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/readings.md)
 
-* [Seminar & Conference](https://github.com/ShinAhYoung21/TIL/blob/main/Seminar/seminar.md)
+* [Seminar & Conference](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/seminar.md)
 
 ----
 ### Web
