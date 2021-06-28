@@ -29,6 +29,7 @@
 3. [웹](#web)
     * 구성내용: `마크다운`, `html and css`, `javascript`, `php`, `network`
 4. [데이터베이스](#database)
+    * 구성내용: `공공데이터 일경험수련생 교육`, `my SQL`
 5. [기타 Others](#others)
     * 구성내용: `버전관리`, `IDE & 개발환경`
 * [To do 리스트](#to-do-list)
