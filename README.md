@@ -55,7 +55,7 @@
 
 * [Project Analysis](https://github.com/ShinAhYoung21/TIL/blob/main/pjt_analysis/pjt_0_careerly.md)
 
-* [Vocabulary for Pre-programmer](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/voca.md)
+* [Computer, Programming Jargons](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/jargons.md)
 
 * [Books & other Reading Materials](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/readings.md)
 
