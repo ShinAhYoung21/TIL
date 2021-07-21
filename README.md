@@ -77,6 +77,8 @@
 ----
 ### Database
 
+* [2021.07.21~(진행중) db개요, MySQL](https://github.com/ShinAhYoung21/TIL/blob/main/DB/db_2with1.md)
+
 * [2021.06.28~ 공공데이터 일경험수련생(청년인턴) 활동](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/govDataIntern.md)
 
 * [My SQL](https://github.com/ShinAhYoung21/TIL/blob/main/category_list/mySql.md)
@@ -92,7 +94,9 @@
 
 > 주 1회, 완료목록을 지운다!
 
-- [ ] [06.28-07.16 공공데이터 일경험 수련생 교육 수료(07.19 최종시험 예정)](https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000002033)
+- [ ] [생활코딩 관계형 데이터모델링 학습](https://opentutorials.org/course/3883)
+- [ ] [생활코딩 db1 복습, db2_MySQL 학습](https://opentutorials.org/course/3161)
+- [X] [06.28-07.16 공공데이터 일경험 수련생 교육 수료(07.19 최종시험 예정)](https://www.data.go.kr/bbs/ntc/selectNotice.do?originId=NOTICE_0000000002033)
 - [ ] [코드업 파이썬기초100제](https://www.codeup.kr/problemsetsol.php?psid=33) 문제를 `Python`과 `JavaScript`를 활용해서 풀기(*풀이 내용 기록해두기*)
 - [ ] [CS50 2019:모두를 위한 컴퓨터 과학](https://www.boostcourse.org/cs112)강의를 통해 알고리즘 기본 이론을 학습 및 정리(*언어에 관계 없이, 이론에 집중해서 학습*)
 ----
